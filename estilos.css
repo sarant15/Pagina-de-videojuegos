@@ -2,3 +2,9 @@ h1{
     text-align: center;
     color:#759eff
 }
+body{
+    background-color: black;
+}
+h2,p{
+    color:white
+}
