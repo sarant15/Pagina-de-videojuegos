@@ -8,3 +8,16 @@ body{
 h2,p,h3{
     color:white
 }
+#columnas{
+    column-count: 3;
+    column-gap: 30px
+}
+ul,li{
+    list-style: none;
+}
+strong{
+    color: white;
+}
+div{
+    text-align: center;
+}
