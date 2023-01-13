@@ -1,6 +1,6 @@
 h1{
     text-align: center;
-    color:#759eff
+    color:#ff69b4
 }
 body{
     background-color: black;
@@ -20,4 +20,7 @@ strong{
 }
 div{
     text-align: center;
+}
+a{
+    color: #ff0080;
 }
