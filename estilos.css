@@ -1,16 +1,16 @@
 h1{
     text-align: center;
-    color:#ff69b4
+    color:#1c65e3;
 }
 body{
     background-color: black;
 }
 h2,p,h3{
-    color:white
+    color:white;
 }
 #columnas{
     column-count: 3;
-    column-gap: 30px
+    column-gap: 30px;
 }
 ul,li{
     list-style: none;
