@@ -3,7 +3,7 @@
     padding:0;
   }
   a:link, a:visited, a:hover, a:active {
-    color:#b0d6ec;
+    color:  #f98fec;
     font-size:16px;
   }
   body {
@@ -31,14 +31,14 @@
     width:800px;
   }
   #contenido {
-    background-color:#ddd;
+    background-color:#286082;
     float:left;
     height:500px;
     padding:10px;
     width:560px;
   }
   #menu {
-    background-color:#999;
+    background-color:#4f71a3;
     float:left;
     height:480px;
     padding:20px;
@@ -64,9 +64,6 @@ ul,li{
 div{
     text-align: center;
 }
-a{
-    color: #ff0080;
-}
 .text{
     font-size: 70px;
 }
@@ -74,7 +71,6 @@ a{
     text-align: center;
     height:80px;
     width:100px;
-    background-color:floralwhite;
     border-radius:20%;
 }
 table{
