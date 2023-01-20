@@ -41,8 +41,8 @@ p {
 
 li {
   list-style-type: none;
-
-  #cabecera {
+}
+ #cabecera{
     color: #ff9;
     background-color: #000;
     padding: 20px;
