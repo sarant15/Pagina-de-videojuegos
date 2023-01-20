@@ -58,7 +58,7 @@ li {
   #contenido {
     background-color: #286082;
     float: left;
-    height: 700px;
+    height: 900px;
     padding: 10px;
     width: 830px;
     text-align: justify;
@@ -67,7 +67,7 @@ li {
   #menu {
     background-color: #4f71a3;
     float: left;
-    height: 700px;
+    height: 900px;
     padding: 10px;
     width: 130px;
     font-size: 20px;
