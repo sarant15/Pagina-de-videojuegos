@@ -44,85 +44,86 @@ p {
 li {
   list-style-type: none;
 }
- #cabecera{
-    color: #ff9;
-    background-color: #000;
-    padding: 20px;
-    font-size: 1.5rem;
-    text-align: center;
-  }
 
-  #contenedor {
-    margin: 0 auto;
-    width: 1000px;
-  }
+#cabecera {
+  color: #ff9;
+  background-color: #000;
+  padding: 20px;
+  font-size: 1.5rem;
+  text-align: center;
+}
 
-  #contenido {
-    background-color: #286082;
-    float: left;
-    height: 1480px;
-    padding: 10px;
-    width: 830px;
-    text-align: justify;
-  }
+#contenedor {
+  margin: 0 auto;
+  width: 1000px;
+}
 
-  #menu {
-    background-color: #4f71a3;
-    float: left;
-    height: 1480px;
-    padding: 10px;
-    width: 130px;
-    font-size: 20px;
-  }
+#contenido {
+  background-color: #286082;
+  float: left;
+  height: 1480px;
+  padding: 10px;
+  width: 830px;
+  text-align: justify;
+}
 
-  #pie {
-    background-color: #bbb;
-    clear: both;
-    padding: 10px;
-    text-align: center;
-    font-size: 1rem;
-  }
+#menu {
+  background-color: #4f71a3;
+  float: left;
+  height: 1480px;
+  padding: 10px;
+  width: 130px;
+  font-size: 20px;
+}
 
-  #columnas {
-    column-count: 3;
-    column-gap: 30px;
-  }
+#pie {
+  background-color: #bbb;
+  clear: both;
+  padding: 10px;
+  text-align: center;
+  font-size: 1rem;
+}
 
-  .text {
-    font-size: 70px;
-  }
+#columnas {
+  column-count: 3;
+  column-gap: 30px;
+}
 
-  .button {
-    text-align: center;
-    height: 80px;
-    width: 100px;
-    border-radius: 20%;
-  }
+.text {
+  font-size: 70px;
+}
 
-  table {
-    padding: 5px;
-    background-color: #00afff;
-    margin: 0 auto;
-  }
+.button {
+  text-align: center;
+  height: 80px;
+  width: 100px;
+  border-radius: 20%;
+}
 
-  table,
-  th {
-    border-style: solid;
-    border-collapse: collapse;
-    text-align: center;
-  }
+table {
+  padding: 5px;
+  background-color: #00afff;
+  margin: 0 auto;
+}
 
-  td {
-    text-align: center;
-    padding: 10px;
-  }
+table,
+th {
+  border-style: solid;
+  border-collapse: collapse;
+  text-align: center;
+}
 
-  .negro {
-    color: #000;
-  }
+td {
+  text-align: center;
+  padding: 10px;
+}
 
-  .inicio {
-    margin-right: 20px;
-    margin-left: 20px;
-    text-align: justify;
-  }
+.negro {
+  color: #000;
+}
+
+.inicio {
+  margin-right: 20px;
+  margin-left: 20px;
+  text-align: justify;
+}
